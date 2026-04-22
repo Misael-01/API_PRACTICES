@@ -28,6 +28,7 @@ Este espacio es un laboratorio (sandbox) dedicado al diseño, desarrollo y consu
 
 El laboratorio está dividido en módulos progresivos:
 
+
 ├── 01_FastAPI_Basico/       # Creación de Endpoints (GET, POST, PUT, DELETE)
 ├── 02_Consumo_Externa/      # Integración con APIs de terceros (Weather, Finanzas)
 ├── 03_Manejo_Errores/       # Control de excepciones, Timeouts y HTTP Status Codes
